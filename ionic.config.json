@@ -1,0 +1,8 @@
+{
+  "name": "Hola ionic-apl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3a3413f2"
+}
